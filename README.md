@@ -1,3 +1,5 @@
 # Readme
 
-This is a test
+This is a sample test.
+
+We are learning Git.
